@@ -1,6 +1,7 @@
-# Prediction-of-Electricity-Consumption-using-Machine-Learning-Algorithms
+# Prediction of Electricity Consumption using Hybrid Machine Learning Algorithms (GBM + LR)
+
 ## PROJECT DESCRIPTION
-This project assesses machine learning models for predicting household appliance energy consumption using five years of monthly data. We evaluate algorithms and ensemble methods like Gradient Boosting and Random Forests to enhance predictive accuracy. Our findings aim to improve energy efficiency and resource allocation.
+This project assesses Hybrid machine learning models for predicting household appliance energy consumption using five years of monthly data. We evaluate algorithms and ensemble methods like Gradient Boosting and Random Forests to enhance predictive accuracy. Our findings aim to improve energy efficiency and resource allocation.
 
 ## SAMPLE DATA
 ![1](https://github.com/user-attachments/assets/0726501b-2749-485d-b1ab-a5ad07bd6618)
